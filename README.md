@@ -3,8 +3,8 @@ POO 101
 
 Créez une classe StrUtils qui contiendra :
 
-- une propriete privée `str` qui contiendra la chaine de caractères à manipuler et mise à jour dans le constructeur
-- les méthodes publiques `bold`, `italic`, `underline`, `capitalize` qui effectueront les transformations éponymes
+une propriete privée `str` qui contiendra la chaine de caractères à manipuler et mise à jour dans le constructeur
+ les méthodes publiques `bold`, `italic`, `underline`, `capitalize` qui effectueront les transformations éponymes
 - une méthode `uglify` qui utilise les autres méthodes pour appliquer du gras, de l'italique et du souligné
 
 
